@@ -868,5 +868,3 @@ function buildInlineHtml(dataUris){
 </script>
 </body>
 </html>
-
-
